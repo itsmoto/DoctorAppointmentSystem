@@ -1,7 +1,7 @@
 # DoctorAppointmentSystem
 The basic system for making appointment with doctors
 
-#Credentials
+## Credentials
 patient:
 
 email: pat@app.com
@@ -22,5 +22,5 @@ email: doctor@app.com
 
 pass: doc
 
-#Licence
+## Licence
 You are not allowed to use or modify this system without prior permission.
