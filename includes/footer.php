@@ -2,7 +2,7 @@
  <footer class="sticky-footer">
       <div class="container">
         <div class="text-center">
-          <small>Mzumbe University - Copyright © 2018 - By Amedeus Minja</small>
+          <small>Copyright © 2018</small>
         </div>
       </div>
     </footer>
