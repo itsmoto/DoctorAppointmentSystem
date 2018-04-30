@@ -65,7 +65,7 @@
 
             <div class="col-md-12" style=" height: 60px; background: #cccccc; margin-top: 7px;">
                 <div class="text-center">
-          <small>Mzumbe University - Copyright © 2018 - By Amedeus Minja</small>
+          <small>Copyright © 2018</small>
         </div>
             </div>
             
